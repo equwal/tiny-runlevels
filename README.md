@@ -1,3 +1,6 @@
+[blog post](https://therealtruex.com/posts/Using-an-init-system-for-many-instances-of-simple-programs)
+[feed/newsletter](https://therealtruex.com/mailing-list)
+
 Using OpenRC runlevels to have lots of instances of simple (network)
 programs like quark for multiple http serving locally or ii (or sic)
 for IRC server connections.
