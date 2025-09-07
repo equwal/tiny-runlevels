@@ -1,0 +1,5 @@
+#!/bin/bash
+for link in /etc/runlevels/${1}/*
+do [[ -L "$link" && "$(readlink "$link")" == /etc/init.d/* ]] && \
+    rc-service "$(basename "$link")" restart
+done
