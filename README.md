@@ -2,7 +2,7 @@
 [feed/newsletter](https://therealtruex.com/mailing-list)
 
 Using OpenRC runlevels to have lots of instances of simple (network)
-programs like quark for multiple http serving locally or [ii](https://tools.suckless.org/ii/) (or sic)
+programs like quark for multiple http serving locally or [ii](https://tools.suckless.org/ii/) (or [sic](https://tools.suckless.org/sic/))
 for IRC server connections.
 
 To keep programs simple, they should not do the same process for
